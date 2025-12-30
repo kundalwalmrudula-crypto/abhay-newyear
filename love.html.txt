@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>For You ❤️</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="container">
+<h1>To My Love 💖</h1>
+
+<p>
+Dear Abhay,<br><br>
+This year felt magical because of you.  
+Every smile, every late-night call, every small moment — I treasure them all.  
+Thank you for being my constant, my comfort, my happiness.  
+I’m so excited to create more memories with you in this new year.  
+Happy New Year, my love ❤️
+</p>
+
+<a href="index.html" class="button">Back to Home 🏠</a>
+</div>
+</body>
+</html>
